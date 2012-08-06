@@ -1,7 +1,7 @@
 TONY'S DRUGS
 =============
 
-This is a game developed for rehabilitation of persons addicted to drugs in one institute of Medellin-Colombia
+This is a game developed for rehabilitation of people addicted to drugs in one institute of Medellin-Colombia
 
 
 Screenshots
