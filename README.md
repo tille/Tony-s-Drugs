@@ -4,6 +4,10 @@ TONY'S DRUGS
 This is a game developed for rehabilitation of persons addicted to drugs in one institute of Medellin-Colombia
 
 
-Screenshot1
+Screenshots
 -----------
-[![Tony's Drugs](https://github.com/Tille/Tony-s-Drugs/raw/master/Source/screenshots/ss1.png)]
+![Tony's Drugs1](https://github.com/Tille/Tony-s-Drugs/raw/master/Source/screenshots/ss1.png)
+
+![Tony's Drugs2](https://github.com/Tille/Tony-s-Drugs/raw/master/Source/screenshots/ss2.png)
+
+![Tony's Drugs3](https://github.com/Tille/Tony-s-Drugs/raw/master/Source/screenshots/ss3.png)
