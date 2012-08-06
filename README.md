@@ -6,4 +6,4 @@ This is a game developed for rehabilitation of persons addicted to drugs in one 
 
 Screenshot1
 -----------
-[![TONY](https://github.com/Tille/Tony-s-Drugs/raw/master/Source/screenshots/ss1.png)]
+(https://github.com/Tille/Tony-s-Drugs/raw/master/Source/screenshots/ss1.png)
